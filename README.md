@@ -1,11 +1,11 @@
 # LinearLayout_Materi1
 
 
-Jawaban Soal Classroom:
+Jawaban Soal yang ada di Classroom:
 
-Linear Layout adalah sejenis layout yang dimana user menempatkan 1 objek per baris atau kolom secara sejajar.
+Linear Layout adalah sejenis layout yang dimana developer menempatkan 1 objek per baris atau kolom secara sejajar.
 
-Relative Layout adalah Layout yang memberi user kebebasan untuk menempatkan objek di tempat yang dinginkan berdasarkan hubungan antara satu objek dengan yang lain, jika tidak di atur maka objek akan menumpuk menjadi satu.
+Relative Layout adalah Layout yang memberi developer kebebasan untuk menempatkan objek di tempat yang dinginkan berdasarkan hubungan antara satu objek dengan yang lain, jika tidak di atur maka objek akan menumpuk menjadi satu.
 
 Constrain Layout adalah Layout yang mirip dengan Relative layout tapi lebih mudah dan fleksibel dengan menggunakan Editor Layout Android Studio.
 
